@@ -128,7 +128,7 @@
 
 
 # import math
-# print(math.factorial(5))
+ # print(math.factorial(5))
 
 
 
@@ -138,5 +138,6 @@
 # print(len(firstName))
 # print(bool(firstName))
 
+print("Salam Fero")
 
 print(dir(__builtins__))
